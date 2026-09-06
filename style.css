@@ -1,0 +1,26 @@
+body{
+    background-image: linear-gradient(to right blue,black);
+}
+h1{
+    background-color: blue;
+    text-align: center;
+    
+}
+h2{
+    background-color: beige;
+    text-align: center;
+    border-radius: 30px;
+    height: 50px;
+    width: 500px;
+    animation:twinkel 4s infinite alternate
+}
+@keyframes twinkel{
+    from{ background-color: rgb(21, 104, 65);}
+    to{ background-color: blue (58, 54, 54);}
+}
+#to{
+    color: blue;
+}
+*hi{
+    color: blanchedalmond;
+}
