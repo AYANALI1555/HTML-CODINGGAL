@@ -1,0 +1,20 @@
+body{
+    background-color: blue;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 105px;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: 8px 8px white;
+}
+#data{
+transform: rotate(6deg);
+transform: scale();
+}
+#tra{
+    transform: rotate(60deg);
+    font-size: 99px;
+}
