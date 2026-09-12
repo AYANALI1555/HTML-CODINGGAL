@@ -12,7 +12,7 @@ h2{
     border-radius: 30px;
     height: 50px;
     width: 500px;
-    animation:twinkel 4s infinite alternate
+     alternateanimation:twinkel 4s infinite
 }
 @keyframes twinkel{
     from{ background-color: rgb(21, 104, 65);}

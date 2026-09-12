@@ -1,0 +1,26 @@
+body{
+    background-color: #87ceeb;
+    background-image: linear-gradient(  to right  white  rgb(49, 173, 157));
+}
+h1{
+    background-color: beige;
+    text-align: center;
+}
+h2{
+    background-color: aqua;
+    text-align: center;
+    border-radius: 40px;
+    height: 49px;
+    width: 599px;
+    alternateanimation:twinkel 4s infinite
+}
+    @keyframes twinkel{
+        from{ background-color: blueviolet;}
+        to{background-color: bisque;}
+    }
+    #m{
+        color: beige;
+    }
+    *yi{
+        color: rgb(53, 62, 62);
+    }
